@@ -6,3 +6,7 @@
 
 ## Картинки
 [это я](kamikkk13.jpg)
+
+picture
+
+[work](1..jpgg)
